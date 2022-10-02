@@ -1,10 +1,11 @@
 .component-display {
-  background-color: #858694;
+  background-color: rgba(45, 122, 215, 0.3);
   color: white;
   text-align: right;
   font-weight: 200;
   flex: 0 0 auto;
   width: 100%;
+  /* backdrop-filter: blur(12px); */
 }
 
 .component-display > div {
